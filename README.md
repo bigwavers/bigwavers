@@ -1,4 +1,4 @@
-# 🌊 Welcome to BigWave R&D  
+# 🌊 Welcome to BigWave
 
 At **BigWave School**, we believe that innovation is the key to shaping the future.  
 As a school specializing in coding, we have launched a dedicated **Research & Development** division focused on **robotics, AI, and Generative AI**.  
